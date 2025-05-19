@@ -11,5 +11,5 @@ git clone https://github.com/1kping/qemu-setup ~/
 ```
 To run the script:
 ```sh
-~/qemu-setup/qemu-setup.sh
+~/qemu-setup/setup.sh
 ```

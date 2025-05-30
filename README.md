@@ -1,6 +1,8 @@
-# qemu setup
+# qemu setup [arch linux]
 ## pre-installation
 Run the script as the user that you want to be able to use QEMU with.
+
+Do not use this script on a distro other than arch linux.
 
 Make sure you have dash installed to be able to run this.
 ```sh

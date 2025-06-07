@@ -4,6 +4,8 @@ Run the script as the user that you want to be able to use QEMU with.
 
 Do not use this script on a distro other than arch linux.
 
+Clone this repo into ~ to use it properly.
+
 Make sure you have dash installed to be able to run this.
 ```sh
 sudo pacman -S dash
